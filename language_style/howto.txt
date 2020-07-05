@@ -1,0 +1,16 @@
+Ho to import the style
+
+In Notepad++, access the menu:
+Language > Define Your Language > Import
+
+Select fata.xml, and restart the Notepad++.
+
+This style is optimized for the theme "Monokai".
+In Notepad++, access the menu:
+Settings > Style Configurator > Select Theme: Monokai
+
+I use these options for Theme:
+Font name: Consolas 
+font size: 14
+Enable global fonts
+Enable global background color
