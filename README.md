@@ -1,1 +1,2 @@
-Some adds for The House in Fata Morgana
+The House in Fata Morgana.
+Some tools for translators. 
